@@ -6,5 +6,5 @@
 ## Run
 
 ```sh
-$ cabal run
+$ cabal run :write-yourself-a-scheme <args>
 ```
